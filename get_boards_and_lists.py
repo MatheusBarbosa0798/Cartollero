@@ -1,8 +1,8 @@
 import requests
 
 # === CONFIGURAÇÕES ===
-API_KEY = "SUA_API_KEY"
-TOKEN = "SEU_TOKEN"
+API_KEY = "API_KEY"
+TOKEN = "TOKEN"
 
 # === FUNÇÕES ===
 
